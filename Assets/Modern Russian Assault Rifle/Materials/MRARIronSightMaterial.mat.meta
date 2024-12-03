@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: daa9092e40fe28a4d8014a41280cbecc
+timeCreated: 1443711685
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46033
+  packageName: Modern Russian Assault Rifle
+  packageVersion: 1.0
+  assetPath: Assets/Modern Russian Assault Rifle/Materials/MRARIronSightMaterial.mat
+  uploadId: 84124

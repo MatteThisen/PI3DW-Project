@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2664a5e047b95634aa3b954031b9e006
+timeCreated: 1443711685
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46033
+  packageName: Modern Russian Assault Rifle
+  packageVersion: 1.0
+  assetPath: Assets/Modern Russian Assault Rifle/Materials/MRARMaterial.mat
+  uploadId: 84124
